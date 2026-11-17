@@ -52,7 +52,7 @@ All tasks were performed in a Microsoft Entra ID test environment using simulate
 
 ![User Directory](Screenshots/User-Management/all-users.png)
 
-![User Properties](Screenshots/User-Management/user-properties%281%29.png)
+![User Properties](Screenshots/User-Management/user-properties.png)
 
 **Skills Demonstrated:** User provisioning, directory administration, account configuration, and identity management.
 
