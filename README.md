@@ -92,11 +92,11 @@ All tasks were performed in a Microsoft Entra ID test environment using simulate
 
 ### Evidence
 
-![Department Security Groups](Screenshots/Group-Management/groups-created%281%29.png)
+![Department Security Groups](Screenshots/Group-Management/groups-created.png)
 
-![IT Department Membership](Screenshots/Group-Management/it-department-group-membership%281%29.png)
+![IT Department Membership](Screenshots/Group-Management/it-department-group-membership.png)
 
-![Finance Department Membership](Screenshots/Group-Management/finance-department-group-overview%281%29.png)
+![Finance Department Membership](Screenshots/Group-Management/finance-department-group-overview.png)
 
 **Skills Demonstrated:** Security group administration, group-based access management, and least-privilege concepts.
 
@@ -116,11 +116,11 @@ All tasks were performed in a Microsoft Entra ID test environment using simulate
 
 ### Evidence
 
-![Group Member Removal](Screenshots/Employee-Offboarding/remove-member-from-group%281%29.png)
+![Group Member Removal](Screenshots/Employee-Offboarding/remove-member-from-group.png)
 
-![Empty Group After Removal](Screenshots/Employee-Offboarding/empty-group-after-removal%281%29.png)
+![Empty Group After Removal](Screenshots/Employee-Offboarding/empty-group-after-removal.png)
 
-![Session Revocation](Screenshots/Employee-Offboarding/employee-sessions-revoked%281%29.png)
+![Session Revocation](Screenshots/Employee-Offboarding/employee-sessions-revoked.png)
 
 **Skills Demonstrated:** Employee offboarding, access revocation, identity security, and administrative verification.
 
@@ -139,11 +139,11 @@ All tasks were performed in a Microsoft Entra ID test environment using simulate
 
 ### Evidence
 
-![Sign-In Logs](Screenshots/Sign-In-Monitoring/sign-in-logs%281%29.png)
+![Sign-In Logs](Screenshots/Sign-In-Monitoring/sign-in-logs.png)
 
-![Sign-In Activity Details](Screenshots/Sign-In-Monitoring/sign-in-activity-details%281%29.png)
+![Sign-In Activity Details](Screenshots/Sign-In-Monitoring/sign-in-activity-details.png)
 
-![Authentication Details](Screenshots/Sign-In-Monitoring/sign-in-authentication-details%281%29.png)
+![Authentication Details](Screenshots/Sign-In-Monitoring/sign-in-authentication-details.png)
 
 **Skills Demonstrated:** Authentication monitoring, sign-in troubleshooting, security log analysis, and identity security awareness.
 
@@ -162,9 +162,9 @@ All tasks were performed in a Microsoft Entra ID test environment using simulate
 
 ### Evidence
 
-![Audit Log Activity](Screenshots/Audit-Logs/activity-audit-log%281%29.png)
+![Audit Log Activity](Screenshots/Audit-Logs/activity-audit-log.png)
 
-![Audit Log Target](Screenshots/Audit-Logs/target-audit-log%281%29.png)
+![Audit Log Target](Screenshots/Audit-Logs/target-audit-log.png)
 
 **Skills Demonstrated:** Audit log analysis, administrative accountability, change verification, and security monitoring.
 
